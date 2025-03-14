@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Shansita Shri  
 
-I'm a **Cyber Security** enthusiast and a **3rd-year Integrated M.Sc. student** at PSG College of Technology. Passionate about **backend development, machine learning, and computer networks**, I enjoy building scalable applications and exploring security challenges.  
+I'm a **Cyber Security** enthusiast and a **3rd-year Integrated M.Sc. student** at PSG College of Technology. I enjoy building scalable applications and exploring security challenges.  
 
 ## 🚀 Tech Stack  
 - **Languages:** Python, C++, C, SQL  
